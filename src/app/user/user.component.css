@@ -1,11 +1,8 @@
 h2{
   margin-left: 20%;
 }
-
-
 .column{
-  display: flex;
-  flex-direction: column;
+  display:table-column;
 }
 .row-user{
   display: flex;
